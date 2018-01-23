@@ -8,3 +8,8 @@
 |         |               |Speak: Subway is on the next block and on your right hand side. |
 |         |               |                |
 |         |               |Speak: You're welcome. Have a nice day!   |
+
+Listen to the question and think about the answer
+Determine the location of subway in relation to your location 
+
+understand the gratitude has been expressed and respond accordingly
